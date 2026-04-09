@@ -1,6 +1,9 @@
 # Spec (15) app: Historique des métrics
 
 ### **Contexte du projet :**
+Notre projet vise à développer une application de suivi équestre permettant aux propriétaires et aux professionnels d’assurer un suivi complet et continu de la santé de leurs chevaux.
+L’objectif est d’anticiper les problèmes de santé, réduire les coûts vétérinaires et améliorer le bien-être animal. L’application centralise toutes les informations liées à la santé, l’alimentation et le budget, tout en proposant des recommandations personnalisées et des outils connectés pour un suivi en temps réel.
+Cette approche s’inscrit dans une volonté de moderniser la gestion quotidienne du cheval grâce à la data et aux objets connectés.
 
 ### **Objectifs de la fonctionnalité :**
 Permettre à l'utilisateur de consulter les métriques de santé de son cheval sur différentes périodes (1 jour, 7 jours, 15 jours, 1 mois) via un graphique interactif affichant deux courbes : la moyenne générale de tous les chevaux de la plateforme et les données propres au cheval de l'utilisateur.

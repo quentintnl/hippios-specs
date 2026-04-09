@@ -2,6 +2,10 @@
 
 ## Contexte du Projet
 
+Notre projet vise à développer une application de suivi équestre permettant aux propriétaires et aux professionnels d’assurer un suivi complet et continu de la santé de leurs chevaux.
+L’objectif est d’anticiper les problèmes de santé, réduire les coûts vétérinaires et améliorer le bien-être animal. L’application centralise toutes les informations liées à la santé, l’alimentation et le budget, tout en proposant des recommandations personnalisées et des outils connectés pour un suivi en temps réel.
+Cette approche s’inscrit dans une volonté de moderniser la gestion quotidienne du cheval grâce à la data et aux objets connectés.
+
 Ce dossier centralise l'ensemble des spécifications fonctionnelles et techniques du projet **Hippios**. L'objectif principal de ce projet est de proposer une application (et un site web) de suivi et de gestion connectée pour les chevaux. 
 
 Mettant en relation des utilisateurs (propriétaires, cavaliers) avec un dispositif de santé/physique pour cheval, le système permet de :
@@ -41,4 +45,3 @@ Voici la liste des spécifications détaillées classées par ordre de fonctionn
 - [Spec (13) app: Dashboard “accueil”](./README-spec-13-app-dashboard-accueil.md)
 - [Spec (14) app: Dashboard un cheval](./README-spec-14-app-dashboard-un-cheval.md)
 - [Spec (15) app: Historique des métrics](./README-spec-15-app-historique-des-metrics.md)
-
