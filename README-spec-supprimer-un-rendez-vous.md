@@ -48,6 +48,9 @@ Permet à l'utilisateur authentifié et abonné de supprimer un rendez-vous depu
 - CT-04 : Simulation d'une erreur base de données → message d'erreur affiché, aucune donnée supprimée
 - CT-05 : Vérification qu'un utilisateur ne peut pas supprimer un rendez-vous appartenant à un autre utilisateur
 
+### **UX/UI**
+![Texte alternatif](./wireframe/app/suppr_rdv.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : le rendez-vous et tous ses documents associés sont définitivement supprimés de la base de données, le calendrier est mis à jour
 - En cas d'échec : aucune donnée n'est supprimée grâce à l'opération atomique, l'utilisateur reste sur la fiche avec un message d'erreur
