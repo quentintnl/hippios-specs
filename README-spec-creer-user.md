@@ -54,6 +54,9 @@ Les messages d'erreur sont affichés directement sous le champ concerné
 Un indicateur de chargement est affiché pendant le traitement de l'inscription
 Un lien vers la page de connexion est disponible pour les utilisateurs déjà inscrits
 
+### **UX/UI**
+![Texte alternatif](./wireframe/site/creer_user.png "Titre de l'image")
+
 ### **Cas de test pour la validation :**
 
 CT-01 : Inscription réussie avec des informations valides et un email inexistant → compte créé, redirection vers la page de connexion
