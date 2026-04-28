@@ -24,24 +24,26 @@ Le projet couvre deux pans majeurs :
 
 Voici la liste des spécifications détaillées classées par ordre de fonctionnalité :
 
+### Connexion - Deconnexion
+- [Spec : Connexion](README-spec-connexion.md)
+- [Spec : Deconnexion](README-spec-deconnexion.md)
+
 ### Site - Gestion Utilisateur et Paiement
 - [Spec site: Creer user](README-spec-creer-user.md)
 - [Spec site: Modifer user (Connexion)](README-spec-modifer-user.md)
 - [Spec site: Modifer user (Profil)](README-spec-modifer-user.md)
 - [Spec site: Supprimer user](README-spec-supprimer-user.md)
 - [Spec site: Payement](README-spec-payement.md)
-- [Spec : Connexion](README-spec-connexion.md)
-- [Spec : Deconnexion](README-spec-deconnexion.md)
 
 ### App - Carnet de santé et Documents
 - [Spec app: Carnet de santé agenda](README-spec-carnet-de-sante-agenda.md)
 - [Spec app: Stockage des docs + téléchargements](README-spec-stockage-des-docs-telechargements.md)
 - [Spec app: Veterinaire](README-spec-veterinaire.md)
-- [Spec : Créer un rendez-vous](README-spec-creer-un-rendez-vous.md)
-- [Spec : Consulter un rendez-vous](README-spec-consulter-un-rendez-vous.md)
-- [Spec : Modifier un rendez-vous](README-spec-modifier-un-rendez-vous.md)
-- [Spec : Supprimer un rendez-vous](README-spec-supprimer-un-rendez-vous.md)
-- [Spec : Stockage des docs](README-spec-stockage-des-docs.md)
+- [Spec app: Créer un rendez-vous](README-spec-creer-un-rendez-vous.md)
+- [Spec app: Consulter un rendez-vous](README-spec-consulter-un-rendez-vous.md)
+- [Spec app: Modifier un rendez-vous](README-spec-modifier-un-rendez-vous.md)
+- [Spec app: Supprimer un rendez-vous](README-spec-supprimer-un-rendez-vous.md)
+- [Spec app: Stockage des docs](README-spec-stockage-des-docs.md)
 - [Spec app : Téléchargement des docs](README-spec-telechargement-des-docs.md)
 
 ### App - Gestion des Chevaux et Capteurs
