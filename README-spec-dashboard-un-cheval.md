@@ -75,6 +75,9 @@ CT-10 : Rafraîchissement manuel → données mises à jour et affichage actuali
 CT-11 : Clic sur "Voir tous les rendez-vous" → redirection vers l'agenda du cheval
 CT-12 : Tentative d'accès au dashboard d'un cheval appartenant à un autre utilisateur → accès refusé
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/dashboard_cheval_individuel.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de chargement réussi : toutes les sections sont affichées avec les données à jour du cheval
