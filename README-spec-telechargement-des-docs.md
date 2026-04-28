@@ -59,6 +59,9 @@ Permet à l'utilisateur d'uploader, consulter, télécharger et prévisualiser l
 - CT-09 : Suppression d'une consultation → Tous les documents associés sont supprimés en cascade
 - CT-10 : Accès aux documents d'un autre utilisateur → Accès refusé - documents non accessibles
 
+### **UX/UI**
+![Texte alternatif](./wireframe/app/doc_consultation.png "Titre de l'image")
+
 ### **Post-conditions :**
 - Upload réussi : Le fichier et ses métadonnées sont enregistrés en base de données. Le document apparaît dans la liste de la consultation
 - Suppression réussie : L'entrée est définitivement supprimée de la base de données. Le document disparaît de la liste
