@@ -25,23 +25,31 @@ Le projet couvre deux pans majeurs :
 Voici la liste des spécifications détaillées classées par ordre de fonctionnalité :
 
 ### Site - Gestion Utilisateur et Paiement
-- [Spec (1) site: Creer user](README-spec-creer-user.md)
-- [Spec (2) site: Modifer user (Connexion)](README-spec-modifer-user.md)
-- [Spec (3) site: Modifer user (Profil)](README-spec-modifer-user.md)
-- [Spec (4) site: Supprimer user](README-spec-supprimer-user.md)
-- [Spec (5) site: Payement](README-spec-payement.md)
+- [Spec site: Creer user](README-spec-creer-user.md)
+- [Spec site: Modifer user (Connexion)](README-spec-modifer-user.md)
+- [Spec site: Modifer user (Profil)](README-spec-modifer-user.md)
+- [Spec site: Supprimer user](README-spec-supprimer-user.md)
+- [Spec site: Payement](README-spec-payement.md)
+- [Spec : Connexion](README-spec-connexion.md)
+- [Spec : Deconnexion](README-spec-deconnexion.md)
 
 ### App - Carnet de santé et Documents
-- [Spec (6) app: Carnet de santé agenda](README-spec-carnet-de-sante-agenda.md)
-- [Spec (7) app: Stockage des docs + téléchargements](README-spec-stockage-des-docs-telechargements.md)
-- [Spec (8) app: Veterinaire](README-spec-veterinaire.md)
+- [Spec app: Carnet de santé agenda](README-spec-carnet-de-sante-agenda.md)
+- [Spec app: Stockage des docs + téléchargements](README-spec-stockage-des-docs-telechargements.md)
+- [Spec app: Veterinaire](README-spec-veterinaire.md)
+- [Spec : Créer un rendez-vous](README-spec-creer-un-rendez-vous.md)
+- [Spec : Consulter un rendez-vous](README-spec-consulter-un-rendez-vous.md)
+- [Spec : Modifier un rendez-vous](README-spec-modifier-un-rendez-vous.md)
+- [Spec : Supprimer un rendez-vous](README-spec-supprimer-un-rendez-vous.md)
+- [Spec : Stockage des docs](README-spec-stockage-des-docs.md)
+- [Spec app : Téléchargement des docs](README-spec-telechargement-des-docs.md)
 
 ### App - Gestion des Chevaux et Capteurs
-- [Spec (10) app: Ajouter un cheval](README-spec-ajouter-un-cheval.md)
-- [Spec (11) app: Modifier un cheval](README-spec-modifier-un-cheval.md)
-- [Spec (12) app: Supprimer un cheval](README-spec-supprimer-un-cheval.md)
+- [Spec app: Ajouter un cheval](README-spec-ajouter-un-cheval.md)
+- [Spec app: Modifier un cheval](README-spec-modifier-un-cheval.md)
+- [Spec app: Supprimer un cheval](README-spec-supprimer-un-cheval.md)
 
 ### App - Dashboard et Métriques
-- [Spec (13) app: Dashboard “accueil”](README-spec-dashboard-accueil.md)
-- [Spec (14) app: Dashboard un cheval](README-spec-dashboard-un-cheval.md)
-- [Spec (15) app: Historique des métrics](README-spec-historique-des-metrics.md)
+- [Spec app: Dashboard “accueil”](README-spec-dashboard-accueil.md)
+- [Spec app: Dashboard un cheval](README-spec-dashboard-un-cheval.md)
+- [Spec app: Historique des métrics](README-spec-historique-des-metrics.md)
