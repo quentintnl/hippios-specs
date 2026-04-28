@@ -57,6 +57,10 @@ Permet à l'utilisateur authentifié et abonné de modifier un rendez-vous à ve
 - CT-06 : Annulation de la modification → aucune donnée modifiée, retour à la fiche
 - CT-07 : Tentative de modification d'un rendez-vous passé → bouton "Modifier" absent, fiche en lecture seule
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/modifier_rdv.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/liste_rdv.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : les nouvelles informations sont enregistrées en base de données, la fiche et le calendrier sont mis à jour
 - En cas d'échec : aucune donnée n'est modifiée, l'utilisateur reste sur le formulaire avec les messages d'erreur appropriés
