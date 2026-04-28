@@ -54,7 +54,7 @@ Les messages d'erreur sont affichés directement sous le champ concerné
 Un indicateur de chargement est affiché pendant le traitement de l'inscription
 Un lien vers la page de connexion est disponible pour les utilisateurs déjà inscrits
 
-### **UX/UI**
+### **UX/UI: **
 ![Texte alternatif](./wireframe/site/creer_user.png "Titre de l'image")
 
 ### **Cas de test pour la validation :**
