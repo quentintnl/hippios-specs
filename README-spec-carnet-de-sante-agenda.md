@@ -74,6 +74,14 @@ CT-08 : Annulation de la suppression depuis la modale → aucune modification ef
 CT-09 : Navigation entre les mois → les rendez-vous du mois sélectionné sont bien affichés
 CT-10 : Vérification que l'agenda d'un animal n'affiche pas les rendez-vous d'un autre animal
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/agenda_vue_mensuelle.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/ajouter_rdv.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/ajouter_document.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/detail_rdv.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/modifier_rdv.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/suppr_rdv.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de création réussie : le rendez-vous est enregistré en base de données, les documents sont stockés et accessibles, le calendrier est mis à jour
