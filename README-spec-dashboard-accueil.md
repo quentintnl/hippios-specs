@@ -72,6 +72,9 @@ CT-09 : Erreur de récupération des données capteur → indicateur d'erreur af
 CT-10 : Vérification que l'utilisateur ne voit pas les chevaux appartenant à un autre compte
 CT-11 : Clic sur une carte cheval → redirection vers la fiche détaillée du cheval
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/dashboard_accueil.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de chargement réussi : les chevaux sont affichés triés selon l'ordre de priorité défini avec leurs statuts à jour
