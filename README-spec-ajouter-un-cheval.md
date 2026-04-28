@@ -81,6 +81,10 @@ CT-08 : Scan d'un QR code déjà associé à un autre cheval → message d'erreu
 CT-09 : Refus d'accès à la caméra → message informatif affiché, invitation à modifier les paramètres
 CT-10 : Vérification qu'un utilisateur ne peut pas accéder aux fiches des chevaux d'un autre utilisateur
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/tous_chevaux.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/ajouter_cheval.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de création réussie avec association : la fiche cheval est enregistrée en base de données, la photo est stockée, l'identifiant du dispositif est lié au cheval et la fiche complète est affichée
