@@ -67,6 +67,9 @@ CT-05 : Vérification post-suppression que les données personnelles sont bien e
 CT-06 : Vérification que l'email de confirmation de suppression est bien reçu
 CT-07 : Tentative de connexion avec le compte supprimé → connexion refusée, message d'erreur affiché
 
+### **UX/UI**
+![Texte alternatif](./wireframe/site/supprimer_compte.png "Supprimer un utilisateur")
+
 ### **Post-conditions :**
 
 En cas de succès : le compte et toutes les données associées sont définitivement supprimés de la base de données, la session est détruite, un email de confirmation est envoyé et l'utilisateur est redirigé vers la page d'accueil
