@@ -52,6 +52,10 @@ Permet à un utilisateur authentifié de se déconnecter explicitement de l'appl
 - CT-06 : Vérification que le token invalidé ne permet plus d'accéder aux routes protégées de l'API
 - CT-07 : Déconnexion alors que la session est déjà expirée → données locales effacées, redirection sans message d'erreur
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/confirmation_deconnexion.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/session_expiree.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : le token de session est invalidé côté serveur, les données locales sont effacées et l'utilisateur est redirigé vers la page de connexion
 - En cas d'expiration automatique : les données locales sont effacées, un message d'information est affiché et l'utilisateur est redirigé vers la page de connexion
