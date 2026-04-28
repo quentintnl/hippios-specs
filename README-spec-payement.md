@@ -1,4 +1,4 @@
-# Spec (5) site: Payement
+# Spec (5) site: Paiement
 
 ### **Contexte du projet :**
 Notre projet vise à développer une application de suivi équestre permettant aux propriétaires et aux professionnels d’assurer un suivi complet et continu de la santé de leurs chevaux.
@@ -59,6 +59,9 @@ Un récapitulatif de la commande (offre choisie, montant, fréquence) est affich
 Un indicateur de chargement est affiché pendant le traitement de la transaction
 Les messages d'erreur Stripe sont traduits en messages compréhensibles pour l'utilisateur
 La page de confirmation affiche le détail de l'abonnement activé et un lien vers la facture
+
+### **UX/UI**
+![Texte alternatif](./wireframe/site/paiement.png "Titre de l'image")
 
 ### **Cas de test pour la validation :**
 
