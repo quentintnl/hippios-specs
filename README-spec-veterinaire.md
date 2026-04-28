@@ -77,6 +77,11 @@ CT-08 : Suppression d'une fiche après confirmation → fiche supprimée, retrai
 CT-09 : Annulation de la suppression depuis la modale → aucune modification effectuée
 CT-10 : Vérification qu'un utilisateur ne peut pas accéder aux fiches vétérinaires d'un autre utilisateur
 
+### **UX/UI**
+![Texte alternatif](./wireframe/app/liste_vetos.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/ajouter_veto.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/detail_veto.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de création réussie : la fiche vétérinaire est enregistrée en base de données et apparaît dans la liste de l'utilisateur
