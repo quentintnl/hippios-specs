@@ -65,6 +65,9 @@ Permet à un utilisateur disposant d'un compte de se connecter à l'application 
 - CT-10 : Utilisateur déjà connecté accédant à la page de connexion → redirection automatique vers le dashboard
 - CT-11 : Erreur serveur lors de la vérification → message d'erreur générique affiché, aucune session créée
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/connexion_app.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : une session utilisateur est créée, l'utilisateur est authentifié et redirigé vers le dashboard d'accueil
 - En cas d'échec : aucune session n'est créée, l'utilisateur reste sur la page de connexion avec le message d'erreur approprié
