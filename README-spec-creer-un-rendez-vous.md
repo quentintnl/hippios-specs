@@ -52,6 +52,9 @@ Permet à l'utilisateur authentifié et abonné de créer un rendez-vous vétér
 - CT-05 : Ajout d'un document dans un format non supporté → message d'erreur affiché
 - CT-06 : Annulation de la création → aucune donnée enregistrée, retour à l'agenda
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/ajouter_rdv.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : le rendez-vous est enregistré en base de données, les documents sont stockés, le calendrier est mis à jour et le jour concerné est mis en évidence
 - En cas d'échec : aucune donnée n'est enregistrée, l'utilisateur reste sur le formulaire avec les messages d'erreur appropriés
