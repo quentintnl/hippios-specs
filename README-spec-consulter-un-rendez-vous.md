@@ -50,6 +50,10 @@ Permet à l'utilisateur authentifié et abonné de naviguer dans l'agenda mensue
 - CT-05 : Aucun rendez-vous sur le mois → message informatif affiché
 - CT-06 : Vérification que l'agenda d'un animal n'affiche pas les rendez-vous d'un autre animal
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/agenda_vue_mensuelle.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/detail_rdv.png "Titre de l'image")
+
 ### **Post-conditions :**
 - En cas de succès : la fiche détail du rendez-vous est affichée avec l'ensemble des informations et documents accessibles
 - En cas d'erreur de chargement : un message d'erreur est affiché et l'utilisateur est invité à réessayer
