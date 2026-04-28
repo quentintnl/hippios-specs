@@ -83,6 +83,10 @@ CT-10 : Dissociation du dispositif après confirmation → lien supprimé, secti
 CT-11 : Annulation de la modification → aucune donnée modifiée, retour à la fiche du cheval
 CT-12 : Vérification qu'un utilisateur ne peut pas modifier la fiche d'un cheval appartenant à un autre utilisateur
 
+### **UX/UI**
+![Texte alternatif](./wireframe/app/modifier_cheval_1.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/modifier_cheval.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de modification réussie : les nouvelles informations sont enregistrées en base de données et la fiche affichée est mise à jour
