@@ -68,6 +68,9 @@ CT-05 : Les deux champs nouveau mot de passe ne correspondent pas → message d'
 CT-06 : Annulation de la modification → aucune donnée modifiée, retour au profil
 CT-07 : Tentative d'accès à la page sans être connecté → redirection vers la page de connexion
 
+### **UX/UI**
+![Texte alternatif](./wireframe/site/modifier_compte.png "Titre de l'image")
+
 ### **Post-conditions :**
 
 En cas de succès : les nouvelles informations sont enregistrées en base de données et le profil affiché est mis à jour
