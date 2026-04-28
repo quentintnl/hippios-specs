@@ -74,6 +74,9 @@ CT-11 : Changement de métrique → graphique mis à jour avec les données de l
 CT-12 : Erreur réseau lors de la récupération des données → message d'erreur affiché, invitation à rafraîchir
 CT-13 : Vérification que la courbe de moyenne est bien anonymisée et ne permet pas d'identifier un cheval en particulier
 
+### **UX/UI :**
+![Texte alternatif](./wireframe/app/historique_datas.png "Titre de l'image")
+
 ### **Post-conditions :**
 En cas de chargement réussi : le graphique affiche les deux courbes sur la période sélectionnée avec les données à jour
 En cas de changement de période ou de navigation : le graphique est mis à jour instantanément avec les données correspondantes
