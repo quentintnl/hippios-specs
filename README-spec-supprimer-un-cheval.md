@@ -61,6 +61,10 @@ Un bouton "Annuler" est disponible dans la modale pour abandonner l'action
 Un indicateur de chargement est affiché pendant le traitement de la suppression
 Un message de confirmation est affiché sur la liste des chevaux après suppression réussie
 
+### **UX/UI**
+![Texte alternatif](./wireframe/app/suppression_chevla_1.png "Titre de l'image")
+![Texte alternatif](./wireframe/app/supression_cheval.png "Titre de l'image")
+
 ### **Cas de test pour la validation :**
 
 CT-01 : Suppression réussie avec mot de passe correct → cheval et toutes ses données supprimés, redirection vers la liste des chevaux
