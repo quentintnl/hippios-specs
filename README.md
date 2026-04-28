@@ -25,23 +25,23 @@ Le projet couvre deux pans majeurs :
 Voici la liste des spécifications détaillées classées par ordre de fonctionnalité :
 
 ### Site - Gestion Utilisateur et Paiement
-- [Spec (1) site: Creer user](./README-spec-1-site-creer-user.md)
-- [Spec (2) site: Modifer user (Connexion)](./README-spec-2-site-modifer-user.md)
-- [Spec (3) site: Modifer user (Profil)](./README-spec-3-site-modifer-user.md)
-- [Spec (4) site: Supprimer user](./README-spec-4-site-supprimer-user.md)
-- [Spec (5) site: Payement](./README-spec-5-site-payement.md)
+- [Spec (1) site: Creer user](README-spec-creer-user.md)
+- [Spec (2) site: Modifer user (Connexion)](README-spec-modifer-user.md)
+- [Spec (3) site: Modifer user (Profil)](README-spec-modifer-user.md)
+- [Spec (4) site: Supprimer user](README-spec-supprimer-user.md)
+- [Spec (5) site: Payement](README-spec-payement.md)
 
 ### App - Carnet de santé et Documents
-- [Spec (6) app: Carnet de santé agenda](./README-spec-6-app-carnet-de-sante-agenda.md)
-- [Spec (7) app: Stockage des docs + téléchargements](./README-spec-7-app-stockage-des-docs-telechargements.md)
-- [Spec (8) app: Veterinaire](./README-spec-8-app-veterinaire.md)
+- [Spec (6) app: Carnet de santé agenda](README-spec-carnet-de-sante-agenda.md)
+- [Spec (7) app: Stockage des docs + téléchargements](README-spec-stockage-des-docs-telechargements.md)
+- [Spec (8) app: Veterinaire](README-spec-veterinaire.md)
 
 ### App - Gestion des Chevaux et Capteurs
-- [Spec (10) app: Ajouter un cheval](./README-spec-10-app-ajouter-un-cheval.md)
-- [Spec (11) app: Modifier un cheval](./README-spec-11-app-modifier-un-cheval.md)
-- [Spec (12) app: Supprimer un cheval](./README-spec-12-app-supprimer-un-cheval.md)
+- [Spec (10) app: Ajouter un cheval](README-spec-ajouter-un-cheval.md)
+- [Spec (11) app: Modifier un cheval](README-spec-modifier-un-cheval.md)
+- [Spec (12) app: Supprimer un cheval](README-spec-supprimer-un-cheval.md)
 
 ### App - Dashboard et Métriques
-- [Spec (13) app: Dashboard “accueil”](./README-spec-13-app-dashboard-accueil.md)
-- [Spec (14) app: Dashboard un cheval](./README-spec-14-app-dashboard-un-cheval.md)
-- [Spec (15) app: Historique des métrics](./README-spec-15-app-historique-des-metrics.md)
+- [Spec (13) app: Dashboard “accueil”](README-spec-dashboard-accueil.md)
+- [Spec (14) app: Dashboard un cheval](README-spec-dashboard-un-cheval.md)
+- [Spec (15) app: Historique des métrics](README-spec-historique-des-metrics.md)
